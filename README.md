@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-🔭 I’m a software engineering student at the 42 São Paulo school. 
+🔭 Software engineering student at 42 School, São Paulo. 
+🎓 BA and MSc in Economics.
+🧑‍🌾 Syntropic agroforestry enthusiast.
 <!--
 **eduardo-keller/eduardo-keller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
