@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🔭 Software engineering student at 42 School, São Paulo. 
-🎓 BA and MSc in Economics.
-🧑‍🌾 Syntropic agroforestry enthusiast.
+- 🔭 Software engineering student at 42 School, São Paulo. 
+- 🎓 BA and MSc in Economics.
+- 🧑‍🌾 Syntropic agroforestry enthusiast.
 <!--
 **eduardo-keller/eduardo-keller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
